@@ -1,0 +1,8 @@
+<suite name="demoqa Test Suite">
+    <test name="demoqa Tests">
+        <classes>
+            
+         <class name="com.demoqa.tests.TestLogin"/>   
+        </classes>
+    </test>
+</suite>

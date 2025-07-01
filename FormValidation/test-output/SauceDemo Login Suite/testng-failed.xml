@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SauceDemo Login Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="LoginTests(failed)">
+    <classes>
+      <class name="com.form.tests.FormTest">
+        <methods>
+          <include name="testValidFormSubmission"/>
+          <include name="tearDown"/>
+          <include name="testMissingRequiredFields"/>
+          <include name="testInvalidEmailFormat"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.form.tests.FormTest -->
+    </classes>
+  </test> <!-- LoginTests(failed) -->
+</suite> <!-- Failed suite [SauceDemo Login Suite] -->

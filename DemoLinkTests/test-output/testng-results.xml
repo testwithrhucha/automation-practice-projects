@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-01T18:26:05 IST" name="SauceDemo Login Suite" finished-at="2025-07-01T18:27:41 IST" duration-ms="96173">
+    <groups>
+    </groups>
+    <test started-at="2025-07-01T18:26:05 IST" name="LoginTests" finished-at="2025-07-01T18:27:41 IST" duration-ms="96173">
+      <class name="com.link.tests.NavigationTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.link.tests.NavigationTest@22ff4249]" started-at="2025-07-01T18:26:05 IST" name="setUp" finished-at="2025-07-01T18:26:18 IST" duration-ms="12890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAboutLink()[pri:0, instance:com.link.tests.NavigationTest@22ff4249]" started-at="2025-07-01T18:26:18 IST" name="testAboutLink" finished-at="2025-07-01T18:26:23 IST" duration-ms="5108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAboutLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.link.tests.NavigationTest@22ff4249]" started-at="2025-07-01T18:26:23 IST" name="tearDown" finished-at="2025-07-01T18:26:23 IST" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.link.tests.NavigationTest@22ff4249]" started-at="2025-07-01T18:26:23 IST" name="setUp" finished-at="2025-07-01T18:26:35 IST" duration-ms="11116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testContactLink()[pri:0, instance:com.link.tests.NavigationTest@22ff4249]" started-at="2025-07-01T18:26:35 IST" name="testContactLink" finished-at="2025-07-01T18:26:43 IST" duration-ms="8796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testContactLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.link.tests.NavigationTest@22ff4249]" started-at="2025-07-01T18:26:43 IST" name="tearDown" finished-at="2025-07-01T18:26:44 IST" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.link.tests.NavigationTest@22ff4249]" started-at="2025-07-01T18:26:44 IST" name="setUp" finished-at="2025-07-01T18:26:52 IST" duration-ms="8761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testHomeLink()[pri:0, instance:com.link.tests.NavigationTest@22ff4249]" started-at="2025-07-01T18:26:52 IST" name="testHomeLink" finished-at="2025-07-01T18:27:09 IST" duration-ms="16739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomeLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.link.tests.NavigationTest@22ff4249]" started-at="2025-07-01T18:27:09 IST" name="tearDown" finished-at="2025-07-01T18:27:09 IST" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.link.tests.NavigationTest@22ff4249]" started-at="2025-07-01T18:27:09 IST" name="setUp" finished-at="2025-07-01T18:27:21 IST" duration-ms="11861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testPatientsLink()[pri:0, instance:com.link.tests.NavigationTest@22ff4249]" started-at="2025-07-01T18:27:21 IST" name="testPatientsLink" finished-at="2025-07-01T18:27:25 IST" duration-ms="4071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPatientsLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.link.tests.NavigationTest@22ff4249]" started-at="2025-07-01T18:27:25 IST" name="tearDown" finished-at="2025-07-01T18:27:26 IST" duration-ms="261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.link.tests.NavigationTest@22ff4249]" started-at="2025-07-01T18:27:26 IST" name="setUp" finished-at="2025-07-01T18:27:34 IST" duration-ms="8378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testServicesLink()[pri:0, instance:com.link.tests.NavigationTest@22ff4249]" started-at="2025-07-01T18:27:34 IST" name="testServicesLink" finished-at="2025-07-01T18:27:41 IST" duration-ms="6931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testServicesLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.link.tests.NavigationTest@22ff4249]" started-at="2025-07-01T18:27:41 IST" name="tearDown" finished-at="2025-07-01T18:27:41 IST" duration-ms="275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.link.tests.NavigationTest -->
+    </test> <!-- LoginTests -->
+  </suite> <!-- SauceDemo Login Suite -->
+</testng-results>

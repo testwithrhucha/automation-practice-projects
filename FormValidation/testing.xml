@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SauceDemo Login Suite">
+    <test name="LoginTests">
+        <classes>
+            <class name="com.form.tests.FormPage"/>
+            <class name="com.form.tests.FormTest"/>
+        </classes>
+    </test>
+</suite>
