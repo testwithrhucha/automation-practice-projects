@@ -49,6 +49,19 @@ All my Selenium  automation projects using Java and TestNG
 
 ---
 
+### 4️⃣ SearchFunctionality
+
+- **Description**: Tests the search feature of a web application.
+- **Key Tasks**:
+  - Enter  search keywords
+  - Submit the search query
+  - Validate that relevant results are displayed
+
+- **Tech stack**:
+  - Selenium WebDriver
+  - Java
+  - TestNG
+
 ## 🚀 Tools & Frameworks
 
 - Selenium WebDriver
